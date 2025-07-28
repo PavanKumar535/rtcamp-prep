@@ -1,1 +1,2 @@
 print("Hello rtCamp! This is Day 1 of my 30-day learning journey.")
+print("Hi")
